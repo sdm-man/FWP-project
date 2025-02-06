@@ -1,7 +1,7 @@
 # FWP-project
 
 ## Description
-Phone firmware without PC is now possible!
+Flash phone without pc is now possible!
 
 ## FAQ
 
